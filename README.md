@@ -10,7 +10,7 @@ I will be adding this library to bower in the future. For now, simply clone this
 ```
 
 ```javascript
-    angular.module('myApp', ['extreme-gauges']
+angular.module('myApp', ['extreme-gauges']
 ```
 
 # Contributor Setup #
@@ -20,4 +20,13 @@ I will be adding this library to bower in the future. For now, simply clone this
 * Bower
 * TypeScript
 
-##
+## Getting Started ##
+
+1. Install NPM Dependencies
+2. Install Bower Dependencies
+3. Compile TypeScript
+
+Be sure to add yourself to the Contributors section of this document.
+
+# Contributors #
+* Christopher Fowers
