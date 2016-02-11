@@ -30,7 +30,7 @@ angular.module('myApp', ['extreme-gauges']
 
 Be sure to add yourself to the Contributors section of this document.
 
-# ToDo #
+# To Do #
 * Unit Testing Setup
 * Create Base Gauge Definition
 * Create Bar Gauge
